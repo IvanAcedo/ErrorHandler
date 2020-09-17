@@ -86,7 +86,7 @@
         /**
          * Function to do all the Previouswork before the creation of the error
          *
-         * @param int $kind the type of error
+         * @param int $kind the type of error 
          * @param array $data all the data involved with the error
          * @param string $time the time and date the error happend
          * @return int $id the id of the created error
